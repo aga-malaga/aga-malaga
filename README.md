@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aga-malaga
-- 👀 I’m interested in backend, especially Java.
+- 👀 I’m interested in back-end, especially Java.
 - 🌱 I’m currently learning Spring Framework and soon I'm going to learn how to make a front-end for my application.
 
 <!---
