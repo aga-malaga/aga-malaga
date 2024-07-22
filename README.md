@@ -1,6 +1,6 @@
- 👋 Hi, I’m @aga-malaga
- 👀 I’m interested in back-end, especially Java.
- 🌱 I’m currently learning React.js to make a front-end for my application.
+ 👋 Hi, I’m @aga-malaga<br>
+ 👀 I’m interested in back-end, especially Java.<br>
+ 🌱 I’m currently learning React.js to make a front-end for my application.<br>
 
  "The most impressive projects are the finished ones"
 
