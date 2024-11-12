@@ -1,6 +1,6 @@
  👋 Hi, I’m @aga-malaga<br>
  👀 I’m interested in back-end, especially Java.<br>
- 🌱 I’m currently learning Docker to deploy my application.<br>
+ 🌱 I’m currently developing my application on my own server.<br>
 
  "The most impressive projects are the finished ones"
 
